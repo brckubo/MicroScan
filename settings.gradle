@@ -1,0 +1,2 @@
+rootProject.name='MicroScan'
+include ':app', ':microscanlib', ':opencv'
